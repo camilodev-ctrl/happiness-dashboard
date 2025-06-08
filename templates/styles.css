@@ -1,0 +1,8 @@
+#map-wrapper{
+    width: 80%;
+    height:600px;
+    margin:0 auto;
+}
+html, body{
+    overflow: hidden;
+}
